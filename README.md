@@ -15,4 +15,4 @@ How to Play:
 1. Player 1 uses X and Player 2 uses O.
 2. Players take turns clicking on an empty cell to place their mark.
 3. The first player to get three marks in a row wins (horizontally, vertically, or diagonally).
-4. After the game ends, you can click the "Restart" button to play again.
+4. After the game ends, you can click the "Start New Game" button to play again.
