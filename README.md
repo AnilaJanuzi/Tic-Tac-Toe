@@ -1,4 +1,4 @@
-Tic-Tac-Toe is a simpleee implementation of the classic 3x3 grid game built. The game allows two players to take turns and play on the same device, with the objective of getting three of their marks in a row (horizontally, vertically, or diagonally).
+Tic-Tac-Toe is a simple implementation of the classic 3x3 grid game built. The game allows two players to take turns and play on the same device, with the objective of getting three of their marks in a row (horizontally, vertically, or diagonally).
 
  Technologies Used:
 - HTML: Structure of the game interface.
